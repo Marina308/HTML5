@@ -1,4 +1,3 @@
-# HTML5
 <!DOCTYPE html>
 <html lang="en">
 
